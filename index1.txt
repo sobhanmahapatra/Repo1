@@ -1,4 +1,0 @@
-adding the content for the index1.txt files for checking the git funcyionality.
-let c, how it is working?
-line 3 entry
-line 4 entry
